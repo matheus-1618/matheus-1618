@@ -1,7 +1,7 @@
 # Nice to see you back... <img src=load.gif width="30px">
 
 <h3> 
-I'm Matheus and currently I'm a graduating Computer Engineering Student at Insper.
+I'm Matheus and currently I'm a graduating Computer Engineering at Insper.
 <br>
 <br>
 
