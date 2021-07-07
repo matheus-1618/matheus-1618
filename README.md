@@ -64,10 +64,10 @@ Nowadays I'm studying Data Science, Machine Learning, Deep Learning, Cloud Compu
 # ⚙️ My favorite Repositories
 <div style="display: flex; flex-direction: row">
     <a  href="https://github.com/leticiacb1/Firewall_Analysis">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiacb1&repo=Firewall_Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=yeblu" width="60px"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiacb1&repo=Firewall_Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=yeblu" width="6rem"/>
     </a>
     <a href="https://github.com/matheus-1618/OneBit">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-1618&repo=OneBit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=yeblu" width="60px"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-1618&repo=OneBit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=yeblu" width="6rem"/>
     </a>  
 </div>  
 
