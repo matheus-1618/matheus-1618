@@ -8,7 +8,7 @@ I'm Matheus and currently I'm a graduating Computer Engineering at Insper.
 The use of any of these repositories is allowed and free. 
 <br>
 
-<div align="center>
+<div align="center">
 <a href="www.linkedin.com/in/matheusoliveira12" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gmail">
 </a>
