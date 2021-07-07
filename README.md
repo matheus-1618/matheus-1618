@@ -1,4 +1,4 @@
-## Nice to see you back <img src=load.gif width="30px">
+# Nice to see you back... <img src=load.gif width="30px">
 
 I'm Matheus and currently I'm a graduating Computer Engineering Student at Insper.
 
@@ -16,13 +16,14 @@ Or sending me an email:
 <img src="https://img.shields.io/badge/matheus1207live-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
-##🧑‍💻 About me
+# 🧑‍💻 About me
 
 I'm fascinated by technology, dynamism and creativity. These are Pillars that keep me focused and committed towards my goals 
 
 Nowadays I'm studying Data Science, Machine Learning, Deep Learning, Cloud Computing and Quantum computing as main topics.
 
-## 🔧 Technologies & Tools I currently use 
+# 🔧 Technologies & Tools I currently use 
+<div align="center">
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
@@ -43,8 +44,9 @@ Nowadays I'm studying Data Science, Machine Learning, Deep Learning, Cloud Compu
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Sqlite3](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+</div>
 
-## &#x1f4c8; GitHub Stats
+# &#x1f4c8; GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=matheus-1618&include_all_commits=true&count_private=true&hide=total_issues&show_icons=true&line_height=33&theme=yeblu" height="200"/>
@@ -52,12 +54,7 @@ Nowadays I'm studying Data Science, Machine Learning, Deep Learning, Cloud Compu
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-1618&count_private=true&theme=yeblu" alt="cicerotcv's streaks" height="175"/>
 </div>
 
-<div>
- <style>
-      a {
-         display:flex;
-         flex-direction: row;
-   </style>
+<div style="display:flex; flex-direction: row;">
     <a href="https://github.com/leticiacb1/Firewall_Analysis">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiacb1&repo=Firewall_Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=yeblu" />
     </a>
