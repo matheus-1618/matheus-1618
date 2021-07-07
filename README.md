@@ -20,7 +20,11 @@ The use of any of these repositories is allowed and free.
 
 # 🧑‍💻 About me
 <h3> 
-I'm fascinated by technology, dynamism and creativity. These are Pillars that keep me focused and committed towards my goals 
+I'm fascinated by technology, dynamism and creativity. These are Pillars that keep me focused and committed towards my goals.
+
+
+<br>
+<br> 
 
 Nowadays I'm studying Data Science, Machine Learning, Deep Learning, Cloud Computing and Quantum computing as main topics.
 </h3>
@@ -60,10 +64,10 @@ Nowadays I'm studying Data Science, Machine Learning, Deep Learning, Cloud Compu
 # ⚙️ My favorite Repositories
 <div style="display: flex; flex-direction: row">
     <a  href="https://github.com/leticiacb1/Firewall_Analysis">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiacb1&repo=Firewall_Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=yeblu" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiacb1&repo=Firewall_Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=yeblu" width="60px"/>
     </a>
     <a href="https://github.com/matheus-1618/OneBit">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-1618&repo=OneBit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=yeblu" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-1618&repo=OneBit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=yeblu" width="60px"/>
     </a>  
 </div>  
 
