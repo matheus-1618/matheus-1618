@@ -1,30 +1,29 @@
 # Nice to see you back... <img src=load.gif width="30px">
 
-<h4> 
+<h3> 
 I'm Matheus and currently I'm a graduating Computer Engineering Student at Insper.
 <br>
 <br>
 
 The use of any of these repositories is allowed and free. 
-
 <br>
-You can find me on: 
 
+<div align="center>
 <a href="www.linkedin.com/in/matheusoliveira12" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gmail">
 </a>
 <a href="mailto:matheus1207live@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-
-</h4>
+</div>
+</h3>
 
 # 🧑‍💻 About me
-<h4> 
+<h3> 
 I'm fascinated by technology, dynamism and creativity. These are Pillars that keep me focused and committed towards my goals 
 
 Nowadays I'm studying Data Science, Machine Learning, Deep Learning, Cloud Computing and Quantum computing as main topics.
-</h4>
+</h3>
 
 # 🔧 Technologies & Tools I currently use 
 <div align="center">
@@ -59,12 +58,12 @@ Nowadays I'm studying Data Science, Machine Learning, Deep Learning, Cloud Compu
 </div>
 
 # ⚙️ My favorite Repositories
-<div style="display:flex;flex-direction:row">
-    <a href="https://github.com/leticiacb1/Firewall_Analysis">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiacb1&repo=Firewall_Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=yeblu" />
+<div style="display: flex; flex-direction: row">
+    <a  href="https://github.com/leticiacb1/Firewall_Analysis">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiacb1&repo=Firewall_Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=yeblu" />
     </a>
     <a href="https://github.com/matheus-1618/OneBit">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-1618&repo=OneBit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=yeblu" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-1618&repo=OneBit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=yeblu" />
     </a>  
 </div>  
 
