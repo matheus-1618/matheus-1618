@@ -1,8 +1,10 @@
 # Nice to see you back... <img src=load.gif width="30px">
 
+<h2 align='center'> 
 I'm Matheus and currently I'm a graduating Computer Engineering Student at Insper.
-
+<br>
 The use of any of these repositories is allowed and free. 
+
 
 You can find me on: 
 
@@ -13,14 +15,17 @@ You can find me on:
 Or sending me an email:
 
 <a href="mailto:matheus1207live@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/matheus1207live-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+<img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
-# 🧑‍💻 About me
+</h2>
 
+# 🧑‍💻 About me
+<h2 align='center'> 
 I'm fascinated by technology, dynamism and creativity. These are Pillars that keep me focused and committed towards my goals 
 
 Nowadays I'm studying Data Science, Machine Learning, Deep Learning, Cloud Computing and Quantum computing as main topics.
+</h2>
 
 # 🔧 Technologies & Tools I currently use 
 <div align="center">
