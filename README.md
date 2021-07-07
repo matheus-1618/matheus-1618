@@ -1,10 +1,16 @@
-# Nice to see you back... <img src=load.gif width="30px">
+<center><h1>Nice to see you back</h1> <img src=load.gif width="30px"></center>
 
 I'm Matheus and currently I'm a graduating Computer Engineering Student at Insper.
-The use of any of these repositories is allowed and free. 
-You can find me on [![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})](www.linkedin.com/in/matheusoliveira12) or sending me an [![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})](mailto:matheus1207live@gmail.com), both available on left size of your screen.
 
-## &#x270d; About me
+The use of any of these repositories is allowed and free. 
+
+You can find me on: 
+[![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})](www.linkedin.com/in/matheusoliveira12) 
+
+Or sending me an email:
+[![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})](mailto:matheus1207live@gmail.com)
+
+## 🧑‍💻 About me
 
 I'm fascinated by technology, dynamism and creativity. These are Pillars that keep me focused and committed towards my goals 
 
@@ -33,16 +39,24 @@ Nowadays I'm studying Data Science, Machine Learning, Deep Learning, Cloud Compu
 
 
 ## &#x1f4c8; GitHub Stats
-
+<center>
 <img src="https://github-readme-stats.vercel.app/api?username=matheus-1618&include_all_commits=true&count_private=true&hide=total_issues&show_icons=true&line_height=33&theme=yeblu" height="200"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-1618&layout=compact&hide=css,html&count_private=true&langs_count=8&theme=yeblu" alt="Most used Languages" height="200"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-1618&count_private=true&theme=yeblu" alt="cicerotcv's streaks" height="175"/>
+</center>
 
-<a href="https://github.com/leticiacb1/Firewall_Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiacb1&repo=Firewall_Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=yeblu" />
-</a>
+<div>
+ <style>
+      a {
+         display:flex;
+         flex-direction: row;
+   </style>
+    <a href="https://github.com/leticiacb1/Firewall_Analysis">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiacb1&repo=Firewall_Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=yeblu" />
+    </a>
 
-<a href="https://github.com/matheus-1618/OneBit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-1618&repo=OneBit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=yeblu" />
-</a>    
+    <a href="https://github.com/matheus-1618/OneBit">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-1618&repo=OneBit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=yeblu" />
+    </a>  
+</div>  
 
