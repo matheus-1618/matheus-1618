@@ -1,4 +1,4 @@
-<h1 align="center">Nice to see you back</h1> <img src=load.gif width="30px">
+## Nice to see you back <img src=load.gif width="30px">
 
 I'm Matheus and currently I'm a graduating Computer Engineering Student at Insper.
 
@@ -13,16 +13,16 @@ You can find me on:
 Or sending me an email:
 
 <a href="mailto:matheus1207live@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/elm.tiago-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+<img src="https://img.shields.io/badge/matheus1207live-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
-<h1 align="center">🧑‍💻 About me</h1> 
+##🧑‍💻 About me
 
 I'm fascinated by technology, dynamism and creativity. These are Pillars that keep me focused and committed towards my goals 
 
 Nowadays I'm studying Data Science, Machine Learning, Deep Learning, Cloud Computing and Quantum computing as main topics.
 
-<h1 align="center">🔧 Technologies & Tools I currently use</h1> 
+## 🔧 Technologies & Tools I currently use 
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
@@ -44,7 +44,7 @@ Nowadays I'm studying Data Science, Machine Learning, Deep Learning, Cloud Compu
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Sqlite3](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<h1 align="center">&#x1f4c8; GitHub Stats</h1> 
+## &#x1f4c8; GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=matheus-1618&include_all_commits=true&count_private=true&hide=total_issues&show_icons=true&line_height=33&theme=yeblu" height="200"/>
@@ -58,11 +58,9 @@ Nowadays I'm studying Data Science, Machine Learning, Deep Learning, Cloud Compu
          display:flex;
          flex-direction: row;
    </style>
-
     <a href="https://github.com/leticiacb1/Firewall_Analysis">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiacb1&repo=Firewall_Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=yeblu" />
     </a>
-
     <a href="https://github.com/matheus-1618/OneBit">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-1618&repo=OneBit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=yeblu" />
     </a>  
