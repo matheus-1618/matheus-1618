@@ -1,22 +1,29 @@
-<center><h1>Nice to see you back</h1> <img src=load.gif width="30px"></center>
+<h1 align="center">Nice to see you back</h1> <img src=load.gif width="30px">
 
 I'm Matheus and currently I'm a graduating Computer Engineering Student at Insper.
 
 The use of any of these repositories is allowed and free. 
 
 You can find me on: 
-[![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})](www.linkedin.com/in/matheusoliveira12) 
+
+<a href="www.linkedin.com/in/matheusoliveira12" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gmail">
+</a>
 
 Or sending me an email:
-[![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})](mailto:matheus1207live@gmail.com)
 
-## 🧑‍💻 About me
+<a href="mailto:matheus1207live@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/elm.tiago-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+<h1 align="center">🧑‍💻 About me</h1> 
 
 I'm fascinated by technology, dynamism and creativity. These are Pillars that keep me focused and committed towards my goals 
 
 Nowadays I'm studying Data Science, Machine Learning, Deep Learning, Cloud Computing and Quantum computing as main topics.
 
-## 🔧 Technologies & Tools I currently use
+<h1 align="center">🔧 Technologies & Tools I currently use</h1> 
+
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-202020?style=for-the-badge&logo=flask&logoColor=white)
@@ -37,13 +44,13 @@ Nowadays I'm studying Data Science, Machine Learning, Deep Learning, Cloud Compu
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Sqlite3](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+<h1 align="center">&#x1f4c8; GitHub Stats</h1> 
 
-## &#x1f4c8; GitHub Stats
-<center>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=matheus-1618&include_all_commits=true&count_private=true&hide=total_issues&show_icons=true&line_height=33&theme=yeblu" height="200"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-1618&layout=compact&hide=css,html&count_private=true&langs_count=8&theme=yeblu" alt="Most used Languages" height="200"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-1618&count_private=true&theme=yeblu" alt="cicerotcv's streaks" height="175"/>
-</center>
+</div>
 
 <div>
  <style>
@@ -51,6 +58,7 @@ Nowadays I'm studying Data Science, Machine Learning, Deep Learning, Cloud Compu
          display:flex;
          flex-direction: row;
    </style>
+
     <a href="https://github.com/leticiacb1/Firewall_Analysis">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiacb1&repo=Firewall_Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=yeblu" />
     </a>
