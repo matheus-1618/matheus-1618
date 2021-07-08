@@ -58,7 +58,7 @@ Nowadays I'm studying Data Science, Machine Learning, Deep Learning, Cloud Compu
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=matheus-1618&include_all_commits=true&count_private=true&hide=total_issues&show_icons=true&line_height=33&theme=yeblu" height="200"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-1618&layout=compact&hide=css,html&count_private=true&langs_count=8&theme=yeblu" alt="Most used Languages" height="200"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-1618&count_private=true&theme=yeblu" alt="cicerotcv's streaks" height="175"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-1618&count_private=true&theme=yeblu"  height="175"/>
 </div>
 
 # ⚙️ My favorite Repositories
