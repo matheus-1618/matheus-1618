@@ -5,7 +5,7 @@ I'm Matheus and currently I'm a graduating Computer Engineering at Insper.
 <br>
 <br>
 
-The use of any of these repositories is allowed and free. 
+The use of any of these repositories is allowed and free for everyone. 
 <br>
 
 <div align="center">
