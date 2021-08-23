@@ -26,7 +26,7 @@ I'm fascinated by technology, dynamism and creativity. These are Pillars that ke
 <br>
 <br> 
 
-Nowadays I'm studying Data Science, Machine Learning, Deep Learning, Cloud Computing and Quantum computing as main topics.
+Nowadays I'm studying  Machine Learning, Deep Learning, Cloud Computing and Quantum computing as main topics.
 </h3>
 
 # 🔧 Technologies & Tools I currently use 
