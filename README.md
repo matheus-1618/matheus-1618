@@ -26,13 +26,17 @@ I'm fascinated by technology, dynamism and creativity. These are Pillars that ke
 <br>
 <br> 
 
-Nowadays I'm studying  Machine Learning, Deep Learning, Cloud Computing and Quantum computing as main topics.
+Nowadays I'm studying Deep Learning, Cloud Computing, Cybersecurity and Blockchain and as main topics.
 </h3>
 
 # 🔧 Technologies & Tools I currently use 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-202020?style=for-the-badge&logo=flask&logoColor=white)
 ![Sklearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
