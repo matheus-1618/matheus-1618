@@ -26,7 +26,7 @@ I'm fascinated by technology, dynamism and creativity. These are Pillars that ke
 <br>
 <br> 
 
-Nowadays I'm studying Deep Learning, Cloud Computing, Cybersecurity and Blockchain and as main topics.
+Nowadays I'm studying Operating Systems and Cybersecurity and as main topics.
 </h3>
 
 # 🔧 Technologies & Tools I currently use 
