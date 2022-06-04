@@ -1,4 +1,4 @@
-# Nice to see you back... <img src=load.gif width="5px" height="5px">
+# Nice to see you back... <img src=load.gif width="15px" height="15px">
 
 <h3> 
 I'm Matheus and currently I'm a graduating Computer Engineering at Insper.
