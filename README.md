@@ -1,7 +1,7 @@
 # Nice to see you back... <img src=load.gif width="30px" height="30px">
 
 <h3> 
-I'm Matheus and currently I'm a graduating Computer Engineering at Insper.
+I'm Matheus and currently I'm a Computer Engineering  student at Insper and Solutions Architect Intern at Amazon Web Services.
 <br>
 <br>
 
@@ -26,7 +26,7 @@ I'm fascinated by technology, dynamism and creativity. These are Pillars that ke
 <br>
 <br> 
 
-Nowadays I'm studying Operating Systems and Cybersecurity and as main topics.
+Nowadays I'm studying Cloud Computing and Malware Analysis and as main topics.
 </h3>
 
 # 🔧 Technologies & Tools I currently use 
@@ -65,13 +65,4 @@ Nowadays I'm studying Operating Systems and Cybersecurity and as main topics.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-1618&count_private=true&theme=yeblu"  height="175"/>
 </div>
 
-# ⚙️ My favorite Repositories
-<div style="display: flex; flex-direction: row">
-    <a  href="https://github.com/leticiacb1/Firewall_Analysis">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiacb1&repo=Firewall_Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=yeblu" width="350px"/>
-    </a>
-    <a href="https://github.com/matheus-1618/OneBit">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-1618&repo=OneBit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=yeblu" width="350px"/>
-    </a>  
-</div>  
 
