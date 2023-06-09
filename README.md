@@ -59,10 +59,11 @@ Nowadays I'm studying Cloud Computing and Malware Analysis and as main topics.
 
 # &#x1f4c8; GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=matheus-1618&include_all_commits=true&count_private=true&show_icons=true&line_height=33&theme=yeblu" height="200"/>
+<div align="center" style="display:flex;flex-direction:column">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-1618&layout=compact&hide=css,html&count_private=true&langs_count=8&theme=yeblu" alt="Most used Languages" height="200"/>
+  </div>
+<div align="center" style="display:flex;flex-direction:column">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-1618&count_private=true&theme=yeblu"  height="175"/>
-</div>
+  </div>
 
 
