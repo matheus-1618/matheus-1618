@@ -18,18 +18,7 @@ The use of any of these repositories is allowed and free for everyone.
 </div>
 </h3>
 
-# 🧑‍💻 About me
-<h3> 
-I'm fascinated by technology, dynamism and creativity. These are Pillars that keep me focused and committed towards my goals.
-
-
-<br>
-<br> 
-
-Nowadays I'm studying Cloud Computing and Malware Analysis and as main topics.
-</h3>
-
-# 🔧 Technologies & Tools I currently use 
+# 🔧 Tech Stack
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
