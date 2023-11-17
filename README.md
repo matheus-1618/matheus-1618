@@ -49,10 +49,14 @@ The use of any of these repositories is allowed and free for everyone.
 # &#x1f4c8; GitHub Stats
 
 <div align="center" style="display:flex;flex-direction:column">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-1618&layout=compact&hide=css,html&count_private=true&langs_count=8&theme=yeblu" alt="Most used Languages" height="200"/>
-  </div>
-<div align="center" style="display:flex;flex-direction:column">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-1618&count_private=true&theme=yeblu"  height="175"/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheus-1618&theme=yeblu)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheus-1618&theme=yeblu)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matheus-1618&theme=yeblu)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheus-1618&theme=yeblu)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matheus-1618&theme=yeblu&utcOffset=8)
+
+
   </div>
 
 
