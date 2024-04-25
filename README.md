@@ -1,7 +1,7 @@
 # Nice to see you back... <img src=load.gif width="30px" height="30px">
 
 <h3> 
-I'm Matheus and currently I'm a Computer Engineering  student at Insper and Solutions Architect at Amazon Web Services.
+I'm Matheus and currently I'm Solutions Architect at Amazon Web Services.
 <br>
 <br>
 
